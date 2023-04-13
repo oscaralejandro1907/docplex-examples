@@ -11,3 +11,5 @@ A basic mixed-integer programming model. Three variables (binary, integer and co
 ## bin-knapsack-problem
 The 0-1 knapsack problem
  
+## linear-assignment-problem
+A basic linear assignment problem of n workers and n tasks. Variables are of two subindexes.
